@@ -12,3 +12,4 @@ hello git
 hello master
 fetching records
 fetch
+fetch 1
