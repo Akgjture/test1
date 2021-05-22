@@ -10,3 +10,4 @@ hello master
 fetching records
 fetch
 fetch 1
+fetch 2
