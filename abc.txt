@@ -12,3 +12,4 @@ fetch
 fetch 1
 fetch 2
 checking fetch master
+master master
